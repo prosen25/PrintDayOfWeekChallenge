@@ -24,6 +24,6 @@ public class Main {
             default -> "Invalid Day";
         };
 
-        System.out.println("Day of the week is " + dayOfWeek);
+        System.out.println(day + " day of the week is " + dayOfWeek);
     }
 }
